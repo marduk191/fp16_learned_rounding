@@ -16,7 +16,7 @@ A high-quality neural network weight quantization tool that converts PyTorch mod
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/Clybius/Learned-Rounding.git
+git clone https://github.com/marduk191/fp16_learned_rounding.git
 cd Learned-Rounding
 ```
 
